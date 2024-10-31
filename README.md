@@ -145,9 +145,7 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 ---
 
-Este README fornece uma visão geral do projeto Ig.News, suas tecnologias utilizadas, estrutura do projeto, passos para instalação e configuração, e diretrizes para contribuição.
 
----
 
 ## Autor 👨‍💻
 
@@ -155,4 +153,3 @@ Este projeto foi desenvolvido por **Thaleson Silva**, Desenvolvedor Full Stack.
 
 - [LinkedIn](https://www.linkedin.com/in/thaleson-silva-9298a0296/)
 
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
